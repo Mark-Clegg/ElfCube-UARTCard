@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "My Components")(type Legacy)(uri "${KIPRJMOD}/My Components.lib")(options "")(descr ""))
+  (lib (name "My Components")(type "Legacy")(uri "${KIPRJMOD}/My Components.lib")(options "")(descr ""))
+  (lib (name "UART-Card-rescue")(type "Legacy")(uri "${KIPRJMOD}/UART Card-rescue.lib")(options "")(descr ""))
 )
